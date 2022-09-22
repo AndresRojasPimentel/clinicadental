@@ -1,6 +1,6 @@
 # clinicadental
 Este es un proyecto sobre una página web:
-### Subido en linea [click aquí](dentalwhite.epizy.com)
+### Subido en linea [click aquí](https://dentalwhite.epizy.com)
 
 ### vistas
 ![](https://scontent.flim8-1.fna.fbcdn.net/v/t39.30808-6/308140330_5327600554002934_2493423209849277745_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=YbgH1FOYAU8AX-QEmU3&_nc_ht=scontent.flim8-1.fna&oh=00_AT9VqAZoUNVLhhN7oJZEE-Nfj7bvVa_ZMYQ6yz-7klnTSA&oe=6330CC9B)
